@@ -75,5 +75,6 @@
   "@elizaos/plugin-video-generation": "github:elizaos-plugins/plugin-video-generation",
   "@elizaos/plugin-web-search": "github:elizaos-plugins/plugin-web-search",
   "@elizaos/plugin-whatsapp": "github:elizaos-plugins/plugin-whatsapp",
-  "@elizaos/plugin-zksync-era": "github:elizaos-plugins/plugin-zksync-era"
+  "@elizaos/plugin-zksync-era": "github:elizaos-plugins/plugin-zksync-era",
+  "@elizaos/plugin-omniflix": "github:elizaos-plugins/plugin-omniflix"
 }
