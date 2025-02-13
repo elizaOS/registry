@@ -7,6 +7,7 @@
   "@elizaos/client-slack": "github:elizaos-plugins/client-slack",
   "@elizaos/client-telegram": "github:elizaos-plugins/client-telegram",
   "@elizaos/client-twitter": "github:elizaos-plugins/client-twitter",
+  "@elizaos/client-tako": "github:takoprotocol/client-tako",
   "@elizaos/plugin-0g": "github:elizaos-plugins/plugin-0g",
   "@elizaos/plugin-3d-generation": "github:elizaos-plugins/plugin-3d-generation",
   "@elizaos/plugin-abstract": "github:elizaos-plugins/plugin-abstract",
