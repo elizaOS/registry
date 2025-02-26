@@ -7,6 +7,7 @@
     "@elizaos-plugins/adapter-sqlite": "github:elizaos-plugins/adapter-sqlite",
     "@elizaos-plugins/adapter-supabase": "github:elizaos-plugins/adapter-supabase",
     "@elizaos-plugins/client-auto": "github:elizaos-plugins/client-auto",
+    "@elizaos-plugins/client-wechat": "github:aiqubits/client-wechat",
     "@elizaos-plugins/client-discord": "github:elizaos-plugins/client-discord",
     "@elizaos-plugins/client-farcaster": "github:elizaos-plugins/client-farcaster",
     "@elizaos-plugins/client-github": "github:elizaos-plugins/client-github",
