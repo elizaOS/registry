@@ -19,6 +19,7 @@
     "@elizaos-plugins/plugin-abstract": "github:elizaos-plugins/plugin-abstract",
     "@elizaos-plugins/plugin-akash": "github:elizaos-plugins/plugin-akash",
     "@elizaos-plugins/plugin-allora": "github:elizaos-plugins/plugin-allora",
+    "@elizaos-plugins/plugin-ankr": "github:elizaos-plugins/plugin-ankr",
     "@elizaos-plugins/plugin-anyone": "github:elizaos-plugins/plugin-anyone",
     "@elizaos-plugins/plugin-aptos": "github:elizaos-plugins/plugin-aptos",
     "@elizaos-plugins/plugin-arthera": "github:elizaos-plugins/plugin-arthera",
